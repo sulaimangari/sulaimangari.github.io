@@ -1,8 +1,6 @@
 ---
 title: su.gar
 timezone: Asia/Jakarta
-avatar: "/assets/img/new.jpg"
-round-avatar: true
 collections:
   posts:
     title: Posts
@@ -24,6 +22,8 @@ defaults:
   values:
     layout: page
     show-avatar: true
+avatar: "/assets/img/new.jpg"
+round-avatar: true
 description: Blog and random things
 author: Sulaiman Gari
 navbar-links:
