@@ -43,7 +43,7 @@ excerpt_length: 50
 navbar-col: "#A6A6A8"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
-page-col: "#FFFFFF"
+page-col: "#f5f5f5"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#A6A6A8"
