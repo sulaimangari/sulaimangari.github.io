@@ -1,6 +1,8 @@
 ---
 title: su.gar
 timezone: Asia/Jakarta
+avatar: "/assets/img/new.jpg"
+round-avatar: true
 collections:
   posts:
     title: Posts
