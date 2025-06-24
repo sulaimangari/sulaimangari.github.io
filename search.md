@@ -3,6 +3,6 @@ layout: page
 permalink: /search
 ---
   
-#### Looking for something?  
+#### Maybe it's a treasure  
   
 {% include search.html %}

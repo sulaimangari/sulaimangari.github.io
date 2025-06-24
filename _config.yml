@@ -3,18 +3,18 @@
 #
 
 # Name of your site (displayed in the header)
-title: hakerdefo's weblog
+title: Sulaiman Personal Blog
 
 # Short bio or description (displayed in the header)
-description: Me in Markdown
+description: Not a Robot
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
 
 # Author
 author:
-  name: hakerdefo
-  url: https://github.com/hakerdefo
+  name: Sulaiman Gari
+  url: https://github.com/sulaimangari
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ author:
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://hakerdefo.github.io
+url: https://sulaimangari.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -48,18 +48,18 @@ footer_links:
     icon: fa fa-rss-square
 
   - title: Email
-    url: mailto:pclink1@y7mail.com
+    url: mailto:sulaimangari97@gmail.com
     icon: fa fa-envelope-square
 
   - title: GitHub
-    url: https://github.com/hakerdefo
+    url: https://github.com/sulaimangari
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
 # Time zone
-timezone: Asia/Kolkata
+timezone: Asia/Jakarta
 
 #
 # !! You don't need to change any of the configuration flags below !!

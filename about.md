@@ -1,32 +1,31 @@
 ---
 layout: page
-title: I, me and myself
+title: Summary of Me
 permalink: /about
 ---
 
-Hi, I'm hakerdefo. Welcome to my hyding place on the wild web, powered by Jekyll.  
-Here you will find me musing about anything and everything that piqued my interest.  
+Hello I'm Sulaiman. People mostly call me Aga. 
+I have heavy interest in low level of digital engineering especially embedded engineering and Linux stuff related.
 <p></p>
 This blog is themed using a wonderful Jekyll template called [Forever Jekyll](https://github.com/forever-jekyll/forever-jekyll).  
 <p></p>
-Wanna know something more about me? Well, I'm a just another guy on the vast ocean of the Internet. I'm not even a speck of dust in the grand scheme of the universe. I'm not that important and interesting in short, but since you are curious here are a few things about me, just for you.  
-- I love listening to all sorts of music.  
-- I used to read a truck load of books, but haven't been able to read as many books as I'd have liked to in the recent past.  
-- I like to watch films, but don't usually get to watch that many for a variety of reasons.  
-- I write songs, poems and short stories when I'm either super high or super low.  
-- I like to travel to isolated places that are closer to nature and farther from the crowd.  
-- I like to take photographs.  
-- I exclusively use GNU/Linux based operating systems. I'm currently running ALT Sisyphus, Debian Sid, Debian stable, Manjaro, NuTyX, openSUSE Tumbleweed, Rosa, Ubuntu LTS and Zenwalk.  
-- Openbox is my WM/DE of choice.  
-- I prefer Sakura as terminal emulator.  
-- GNU nano and Mousepad are my preferred text-editors.  
-- Firefox is my browser of choice.  
-- I use Mutt and SeaMonkey to manage my emails.  
-- cmus and MOC are my preferred audio players.  
-- mpv is what I use to watch videos.  
-- I use viewnior, mtPaint and ImageMagick to work with photographs and images.  
-- I love messing around with code. I'm not a programmer by any means but hack, I like to hack.  
-- And last but not the least, I use Git for managing my code.  
+Right now I mostly use Linux and Windows in dual boot mode.
+List of software that I actively using right now:
+- Linux Cachy OS with KDE
+- Windows 10
+- Notion
+- Floorp Browser (Firefox Fork)
+- VSCodium (VScode Fork)
+- ESP-IDF
+- PlatfromIO
+- ArduinoIDE
+- Many more .... 
 
-<p></p>
-Still got a question or simply curious? Please don't hesitate in <a href="mailto:pclink1@y7mail.com">emailing me</a>. I love to hear from random people. A simple hello email from you might be good enough to put a smile on my face and make my day; you never know!  
+Hardware:
+- Lenovo Thinkpad T430
+- Custom Debian Server (Xeon-1225v4)
+- ESP-32 S3 N8R16
+- NRF52840
+- Amlogic Board (S905w, S905x2)
+- Etc (too much lol)
+
